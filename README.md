@@ -1,3 +1,3 @@
 # Video_dowloader
-pip install pytube /n
+pip install pytube
 pip install PyQt5
